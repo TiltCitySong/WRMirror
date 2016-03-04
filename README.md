@@ -22,7 +22,7 @@ OC:- https://github.com/kostiakoval/Mirror
 If you want to try it, there is a demo Playground available, just run 
 
 ```ruby
-pod try Mirror
+drop WRMirror.swift to your priject
 ```
 
 ###Create a mirror for an instance   
